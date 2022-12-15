@@ -1,6 +1,23 @@
-.box{
-  width: 100px;
-  height: 100px;
+.home{
+  position: relative;
+  margin-top: 3em;
+  display: flex;
+  justify-content: center;
+  font-family: Inter,Helvetica,Arial,sans-serif;
+}
+#box{
+  width: 150px;
+  height: 150px;
   background: green;
-  
+  border: solid;
+  border-color: black;
+}
+.cent-box{
+position: relative;
+margin-left: 5em;
+margin-top: 9em;
+}
+
+.central{
+  margin-right: 4em;
 }
